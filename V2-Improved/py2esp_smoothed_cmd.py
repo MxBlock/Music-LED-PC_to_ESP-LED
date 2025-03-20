@@ -10,7 +10,7 @@ DECAY_FACTOR = 0.98
 INIT_MAX = 5000
 SMOOTH_WIN = 5
 DECAY_RATE = 0.85
-HOST, PORT = "192.168.42.240", 80
+HOST, PORT = "XXX.XXX.XXX.XXX", 80
 
 # Setup audio and UDP
 p = pyaudio.PyAudio()
