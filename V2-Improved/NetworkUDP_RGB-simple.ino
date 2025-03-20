@@ -5,8 +5,8 @@
 #define RED_PIN 15     // Adjusted for ESP32
 #define BLUE_PIN 4    // Adjusted for ESP32
 
-const char *ssid = "Sorglosinternet 2.4";
-const char *password = "Schindel";
+const char *ssid = "XXX";
+const char *password = "XXX";
 
 WiFiUDP udp;
 unsigned int localPort = 80;
