@@ -1,3 +1,10 @@
 # Music-LED-PC_to_ESP-LED
 
-simply download V2 and upload the code onto esp32 with updated WLAN infos. Then edit python script to the ip thats shown in serial terminal - save and start python, enjoy!
+1. Downlaod code
+3. Update WLAN infos in .ino
+4. Upload onto esp
+5. connect rgb led to assigned pins (default: 15, 2, 4)
+6. read in terminal the ip address
+7. update ip in python
+8. start python script
+9. enjoy
