@@ -8,3 +8,7 @@
 7. update ip in python
 8. start python script
 9. enjoy
+
+
+
+PS: dont even bother with V1 - just some old useless files for myself
